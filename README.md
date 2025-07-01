@@ -6,7 +6,7 @@ This project demonstrates a complete end-to-end sales analysis and time series f
 
 ## 📅 Project Duration
 
-**1 Juky 2025**
+**1 July 2025**
 
 ---
 
