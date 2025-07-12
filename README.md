@@ -18,7 +18,7 @@ To analyze historical retail sales data and develop a predictive model for futur
 
 ## 📁 Dataset
 
-* **Source:** https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?resource=download
+* **Source:** [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?resource=download)
 * **Timeframe:** January 2014 – December 2017
 * **Features:**
 
@@ -74,8 +74,8 @@ To analyze historical retail sales data and develop a predictive model for futur
 
 ## 🌍 Tableau Public Links
 
-* 🔺 **Dashboard:** https://public.tableau.com/app/profile/bheki.mogola/viz/Superstoresalesforecastandperfomance/SalesForecastDashboard-Superstore2014-2018#1
-* 📖 **Story:** https://public.tableau.com/app/profile/bheki.mogola/viz/Superstoresalesforecastandperfomance/Monthlysalesforecaststorypresentation#1
+* 🔺 [**Dashboard**](https://public.tableau.com/app/profile/bheki.mogola/viz/Superstoresalesforecastandperfomance/SalesForecastDashboard-Superstore2014-2018#1)
+* 📖 [**Story**](https://public.tableau.com/app/profile/bheki.mogola/viz/Superstoresalesforecastandperfomance/Monthlysalesforecaststorypresentation#1)
 
 ---
 
